@@ -14,6 +14,7 @@ What you'll learn
 - Lightweight threat assessment and prioritization
 - How to write good bug reports
 - Reflected XSS (Cross-Site Scripting)
+- WOW
 
 Video
 -----
